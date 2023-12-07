@@ -1,43 +1,6 @@
-# team_project_1
-team project 1
+Home Price Analysis - Conclusion
 
+Question: Which factors has the greatest effect on a city’s home price?
+Violent Crimes, Population, Income, Proximity to Major City, or Unempoyment Rates
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Proxmiity to Major City
-
-# Obtain a map to show mean of the home price for each city in California
-- Gather and clean database from Zillow
-- Calculate the mean of each year
-- Grab Latitude and Longitude for each city
-- plot into and map with size base on the mean of house prices
-- set the map to show Califonia State
-
-# Calculate and visualize the correlation of distance between city and major city 
-- Grab major cities info from California.org
-- State the formula for calculate the distance between city and it nearest major city
-- plot the linear regression formula
-- performe scatter plot and liner regression
-- obtain r-value for each years
-- performe formula to remove outliers
-- performe scatter plot and liner regression for data without outliner
-- obtain r-value
-
-
+After conducting our analysis, it seems that all five variables impact a city’s average home price. However, it is evident that the highest correlation is with the city’s average household income. With an r-value of 0.6529, obtained after removing outliers, it becomes apparent as a city’s average household income increases, so does its average home price.
