@@ -7,6 +7,7 @@ After conducting our analysis, it seems that all five variables impact a city’
 
 
 #Requirements
+
 #Completed Analysis Uploaded to GitHub (20 points)
 Final data analysis contains ample and complete information in README file (10 points)
 Final repository is acceptable for professional quality presentation (10 points)
